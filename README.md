@@ -8,7 +8,7 @@
 
 
 ## Introdução
-Isso é um bot que eu desenvolvi para o aplicativo Discord. Ele foi utilizado para fins de estudos da linguagem. Ele opera a partir de comandos 
+Isso é um bot que eu desenvolvi para o aplicativo Discord. Ele foi utilizado para fins de estudos da linguagem. Ele opera a partir de comandos.
 
 
 <img src="https://cdn.discordapp.com/attachments/953758020750409770/1025618734003535882/lemonbot.png" >
