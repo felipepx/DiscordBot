@@ -12,6 +12,7 @@ Isso é um bot que eu desenvolvi para o aplicativo Discord. Ele foi utilizado pa
 
 
 <img src="https://cdn.discordapp.com/attachments/953758020750409770/1025618734003535882/lemonbot.png" >
+<img src="https://cdn.discordapp.com/attachments/953758020750409770/1025621355179278367/lemonbot.png" >
 
 ## Techs
 
