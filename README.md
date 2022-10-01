@@ -18,7 +18,7 @@ Isso é um bot que eu desenvolvi para o aplicativo Discord. Ele foi utilizado pa
 
 Tecnologias usadas:
 
-* [Python](https://www.python.org/): Linguagem de programação de alto nível. Sua filosofia de design enfatiza a legibilidade do código com o uso de recuo significativo.;
+* [Python](https://www.python.org/): Linguagem de programação de alto nível. Sua filosofia de design enfatiza a legibilidade do código com o uso de recuo significativo;
 ## Autor
 
 | [<img src="https://cdn.discordapp.com/attachments/920700154204553226/1013985974004502640/unknown.png" width=115><br><sub>Felipe Pereira</sub>](https://github.com/felipepx) |
